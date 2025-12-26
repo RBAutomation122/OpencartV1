@@ -1,0 +1,27 @@
+00:52:17.384 [main] INFO  testCases.TC003_LoginTest - User Login Started
+00:52:44.048 [main] INFO  testCases.TC003_LoginTest - User Login Started
+00:54:40.796 [main] INFO  testCases.TC003_LoginTest - User Login Started
+23:14:35.754 [main] INFO  testCases.TC002_AccountRegistration - ***Starting TC002_AccountRegistration Execution***** 
+23:14:35.904 [main] INFO  testCases.TC002_AccountRegistration - **Clicked On MyAccount Link*** 
+23:14:36.688 [main] INFO  testCases.TC002_AccountRegistration - **Clicked On Register Link*** 
+23:14:36.692 [main] INFO  testCases.TC002_AccountRegistration - **Providing customer registeration Details*** 
+23:14:41.737 [main] INFO  testCases.TC002_AccountRegistration - **Validating success message***
+23:14:41.785 [main] INFO  testCases.TC002_AccountRegistration - ** Finished Test Case **
+23:14:45.998 [main] INFO  testCases.TC003_LoginTest - User Login Started
+23:18:01.103 [main] INFO  testCases.TC003_LoginTest - User Login Started
+23:26:35.300 [main] INFO  testCases.TC002_AccountRegistration - ***Starting TC002_AccountRegistration Execution***** 
+23:26:35.793 [main] INFO  testCases.TC002_AccountRegistration - **Clicked On MyAccount Link*** 
+23:26:36.446 [main] INFO  testCases.TC002_AccountRegistration - **Clicked On Register Link*** 
+23:26:36.450 [main] INFO  testCases.TC002_AccountRegistration - **Providing customer registeration Details*** 
+23:26:41.221 [main] INFO  testCases.TC002_AccountRegistration - **Validating success message***
+23:26:41.314 [main] INFO  testCases.TC002_AccountRegistration - ** Finished Test Case **
+23:26:44.763 [main] INFO  testCases.TC003_LoginTest - User Login Started
+23:26:48.155 [main] INFO  testCases.TC003_LoginTest - User Login Test Finished
+17:31:55.211 [main] INFO  testCases.TC003_LoginTest - User Login Started
+17:32:00.252 [main] INFO  testCases.TC003_LoginTest - User Login Test Finished
+17:32:01.534 [main] INFO  testCases.TC003_LoginTest - User Login Started
+17:32:05.262 [main] INFO  testCases.TC003_LoginTest - User Login Test Finished
+15:23:03.840 [main] INFO  testCases.TC003_LoginTest - User Login Started
+15:23:07.394 [main] INFO  testCases.TC003_LoginTest - User Login Test Finished
+16:00:23.672 [main] INFO  testCases.TC003_LoginTest - User Login Started
+16:00:27.308 [main] INFO  testCases.TC003_LoginTest - User Login Test Finished
